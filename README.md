@@ -26,14 +26,18 @@
 
 ## Specifications
 
-0. Study the [completed examples](./completed-examples) provided.
-1. 
+0. Study the [completed examples](./examples-to-study) provided.
+1. Select a tutorial of your choice from the list in Resources.
+2. Study the tutorial examples in detail by making a copies of the [step-through template](./copy-this-for-each-step-through.md) in the [my-step-throughs](./my-step-throughs) folder.
+3. Keep your JavaScript Reference repository up to date by including links to your newest step-throughs.
 
 [TOP](#index)
 
 ---
 
 ## Resources
+
+[JS Notional Machine](./notional-machine.md)
 
 [How to Step Through](./how-to-step-through.md)
 

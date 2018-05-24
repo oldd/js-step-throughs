@@ -44,9 +44,9 @@ PythonTutor:
 * [GitHub Repo](https://github.com/pgbovine/OnlinePythonTutor)
 * [About PythonTutor](https://www.youtube.com/watch?v=sVtXLdBRfyE)
 
-[Examples to Study](./completed-examples)
+[Examples to Study](./examples-to-study)
 
-[Step-Through Template](./step-through-template)
+[Step-Through Template](./copy-this-for-each-step-through.md)
 
 ___
 ___
